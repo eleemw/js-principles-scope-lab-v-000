@@ -1,8 +1,8 @@
 // Fix the Scope Lab
 
 //declare customerName to be bob in global scope
-var customerName = 'bob'
+var customerName = 'bob';
 
 function upperCaseCustomerName () {
-  customerName.uppercases
+  customerName = customerName.toUpperCase();
 }
