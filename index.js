@@ -2,3 +2,7 @@
 
 //declare customerName to be bob in global scope
 var customerName = 'bob'
+
+upperCaseCustomerName () {
+  
+}
